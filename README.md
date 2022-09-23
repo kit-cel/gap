@@ -1,4 +1,4 @@
-# gap
+# Graph Alteration by Preprocessing (GAP)
 Source code and demo for the GAP algorithm, a **low-complexity near-optimum symbol detection algorithm for linear ISI channels based on message passing on factor graphs**.
 For more details, see [1].
 
