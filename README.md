@@ -1,6 +1,7 @@
 # Graph Alteration by Preprocessing (GAP)
-Source code and demo for the GAP algorithm, a **low-complexity near-optimum symbol detection algorithm for linear ISI channels based on message passing on factor graphs**.
-For more details, see [1].
+### A symbol detection algorithm for linear ISI channels based on message passing on factor graphs
+
+This repo prvides the source code and a small demo for the GAP algorithm - a low-complexity near-optimum symbol detector for linear ISI channels. For more details, see [1].
 
 [1] Schmid, Luca, and Laurent Schmalen. “Low-Complexity Near-Optimum Symbol Detection Based on Neural Enhancement of Factor Graphs.” ArXiv:2203.16417 [Cs, Eess, Math], March 30, 2022. http://arxiv.org/abs/2203.16417.
 
